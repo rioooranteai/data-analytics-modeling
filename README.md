@@ -1,4 +1,3 @@
-# data-analytics---modeling
 # 🚀 Koleksi Mini Project Machine Learning 🧠📊  
 
 ## 📌 Daftar Project  
