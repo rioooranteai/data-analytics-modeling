@@ -1,6 +1,4 @@
-# 🚀 Koleksi Mini Project Machine Learning 🧠📊  
-
-## 📌 Daftar Project  
+# 📌 Daftar Mini Project 
 
 🔹 **Apple Stock - Hybrid Machine Learning Model** 📉🍏  
 🔹 **House Price Prediction** 🏠💵  
