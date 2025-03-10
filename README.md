@@ -1,9 +1,9 @@
 # 📌 Daftar Mini Project 
 
-🔹 **Apple Stock - Hybrid Machine Learning Model** 📉🍏  
-🔹 **House Price Prediction** 🏠💵  
-🔹 **Netflix Content Strategy Analysis** 📼📺<br>
-🔹 **Real Estate Price Prediction** 🏢📈  
+🔹 **Apple Stock - Hybrid Machine Learning Model** 📉🍏 **(On Going)**  
+🔹 **House Price Prediction** 🏠💵  **(On Going)**
+🔹 **Netflix Content Strategy Analysis** 📼📺 **(Done)** <br>
+🔹 **Real Estate Price Prediction** 🏢📈 **(Done)**
 
 ---
 
